@@ -1,1 +1,418 @@
-[]
+[][
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, Alastair",
+    "name": "[HLX] ReGrowth - Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Boreal Forest Expansion"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Tundra Expansion"
+  },
+  {
+    "author": "Helixien",
+    "name": "[HLX] ReGrowth - Wasteland",
+    "steamId": "2122461695",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Cold Bog Expansion"
+  },
+  {
+    "author": "Helixien, Erin",
+    "name": "[HLX] ReGrowth - Extinct Animals Pack"
+  },
+  {
+    "author": "Helixien",
+    "name": "[HLX] ReGrowth - Vanilla Plant Density Patch"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Alastair, Taranchuk",
+    "name": "[HLX] ReGrowth - Temperate Forest Expansion"
+  },
+  {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "[HLX] ReGrowth - Mutated Animals Pack"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Rainforest"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Extreme Desert"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Desert"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Boreal Forest"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Australia"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Arid Shrubland",
+    "steamId": "1836900626",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Swamp"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tundra"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Armour Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": "2260012940",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded"
+  },
+  {
+    "author": "VinaLx",
+    "name": "ResearchPal - Forked",
+    "steamId": "2351393394",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "GassyTaco",
+    "name": "Prisoner Harvesting"
+  },
+  {
+    "author": "Anonemous2, wofl",
+    "name": "More Furniture [1.1 + 1.2]"
+  },
+  {
+    "author": "PinoChemicali",
+    "name": "More Trade Ships"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan"
+  },
+  {
+    "author": "Spino",
+    "name": "Megafauna"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Just Ignore Me Passing"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality"
+  },
+  {
+    "author": "Sarg",
+    "name": "Giddy-Up! Add-on: Animal Saddles"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Arekan",
+    "name": "Enhanced Combat Sounds"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Luizi",
+    "name": "Vanilla Weapons Retextured"
+  },
+  {
+    "author": "Shotgunfrenzy",
+    "name": "[SF] Priority treatment 1.1"
+  },
+  {
+    "author": "Heremeus",
+    "name": "TwitchToolkit - More !mypawn Commands"
+  },
+  {
+    "author": "Shakesthespeare, iforgotmysocks",
+    "name": "Rimsec Security",
+    "steamId": "2323762086",
+    "version": "1.2.4"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ISOREX",
+    "name": "VFE - Mechanoids : Unoffical Add-On"
+  },
+  {
+    "author": "Seos",
+    "name": "VFE - Mechanoids : Tab"
+  },
+  {
+    "author": "Seos",
+    "name": "VFE - Mechanoids : Drones"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Toasteh, Updated by Ogliss",
+    "name": "Veinminer R1.1"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music"
+  },
+  {
+    "author": "Orion",
+    "name": "Xeva's Rimhair"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Erin, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Temperate Forest"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Hair Expanded - Beards"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Cats and Dogs"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Furniture Expanded - Production"
+  },
+  {
+    "author": "Oskar Potocki, Trunken, XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Toolkit Bridge - Vanilla Events Expanded"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Toolkit Bridge - VFE Settlers"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art"
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming"
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons"
+  }
+]
